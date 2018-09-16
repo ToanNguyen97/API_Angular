@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhoaAPIAngularOnline.Common", "KhoaAPIAngularOnline.Common\KhoaAPIAngularOnline.Common.csproj", "{5BEBEF01-D055-4CEA-80E9-90095DC93FE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhoaAPIAngularOnline.Models", "KhoaAPIAngularOnline.Models\KhoaAPIAngularOnline.Models.csproj", "{07B1A73A-94BC-4301-A03B-02178BFED232}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhoaAPIAngularOnline.Data", "KhoaAPIAngularOnline.Data\KhoaAPIAngularOnline.Data.csproj", "{3F5C4DA6-093F-48B2-8A91-2322BACD68F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhoaAPIAngularOnline.Service", "KhoaAPIAngularOnline.Service\KhoaAPIAngularOnline.Service.csproj", "{1C9E2466-6799-482E-8D69-F83ACFF00977}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhoaAPIAngularOnline.UnitTest", "KhoaAPIAngularOnline.UnitTest\KhoaAPIAngularOnline.UnitTest.csproj", "{F37DD92F-DE2B-45B9-8D59-38774BCF865D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KhoaAPIAngularOnline.WebAPP", "KhoaAPIAngularOnline.WebAPP\KhoaAPIAngularOnline.WebAPP.csproj", "{E33768FB-5733-461E-AB3C-71DEB945EDDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BEBEF01-D055-4CEA-80E9-90095DC93FE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEBEF01-D055-4CEA-80E9-90095DC93FE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEBEF01-D055-4CEA-80E9-90095DC93FE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEBEF01-D055-4CEA-80E9-90095DC93FE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B1A73A-94BC-4301-A03B-02178BFED232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B1A73A-94BC-4301-A03B-02178BFED232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B1A73A-94BC-4301-A03B-02178BFED232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B1A73A-94BC-4301-A03B-02178BFED232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F5C4DA6-093F-48B2-8A91-2322BACD68F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5C4DA6-093F-48B2-8A91-2322BACD68F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5C4DA6-093F-48B2-8A91-2322BACD68F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5C4DA6-093F-48B2-8A91-2322BACD68F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C9E2466-6799-482E-8D69-F83ACFF00977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9E2466-6799-482E-8D69-F83ACFF00977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9E2466-6799-482E-8D69-F83ACFF00977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9E2466-6799-482E-8D69-F83ACFF00977}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37DD92F-DE2B-45B9-8D59-38774BCF865D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37DD92F-DE2B-45B9-8D59-38774BCF865D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37DD92F-DE2B-45B9-8D59-38774BCF865D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37DD92F-DE2B-45B9-8D59-38774BCF865D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E33768FB-5733-461E-AB3C-71DEB945EDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33768FB-5733-461E-AB3C-71DEB945EDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33768FB-5733-461E-AB3C-71DEB945EDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33768FB-5733-461E-AB3C-71DEB945EDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CB2D1E8-224B-4C91-BF5F-C86DC07FFFB2}
+	EndGlobalSection
+EndGlobal
